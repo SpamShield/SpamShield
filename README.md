@@ -9,3 +9,4 @@
 
 - [Pyrogram Example bot](https://github.com/SpamShield/PyroGramBot) 
 - [Service-regexlink-cleaner](https://github.com/SpamShield/service-regexlink-cleaner) 
+- [Forward-Mess-Remover](https://github.com/SpamShield/Forward-Mess-Remover) 
